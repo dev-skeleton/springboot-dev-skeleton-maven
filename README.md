@@ -39,6 +39,11 @@
 - `types` type define
 - `wip` work in progress
 
+## problems
+
++ required a bean of type 'org.springframework.boot.info.BuildProperties' that could not be found
+    + execute `mvn clean package` first
+
 ## TIPS
 
 ### maven
